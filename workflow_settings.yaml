@@ -1,0 +1,7 @@
+defaultProject: ge-appliances-enterprise
+defaultDataset: edf_dataform_silver
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.52
+vars:
+    bronze_dataset: edf_raw
+    silver_dataset: edf_dataform_silver
